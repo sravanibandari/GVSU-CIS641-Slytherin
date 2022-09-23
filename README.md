@@ -1,6 +1,7 @@
 # Slytherin
 
-Project description (~1 paragraph)
+Project description 
+Our project is an e-commerce shopping website.Where we tend to build the below pages in the website products listing, adding items to favorite/whishlist page, cart page and product details page
 
 ## Team Members and Roles
 
