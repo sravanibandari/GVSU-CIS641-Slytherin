@@ -17,7 +17,7 @@ Our project is an e-commerce shopping website.Where we tend to build the below p
 (What is your estimated "plan of attack" for developing this project)
 
 # Estimated Timeline
- ##Major mile stones
+ ## Major mile stones
 - Plan and design(1 week)
 - Frontend development (2 weeks)
 - Refinement of frontend webpage (2 days)
