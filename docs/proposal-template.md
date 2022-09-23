@@ -1,14 +1,16 @@
-Team name:
+Team name: Slytherin
 
-Team members:
+Team members: Sravani Bandari(GO2485918),Sanjana Devarupala(G02495860),Akhila Pasam(G02493726)
 
 # Introduction
 
-(In 2-4 paragraphs, describe your project concept)
+Our project is an e-commerce shopping website.Where we tend to build the below pages in the website products listing, adding items to favorite/whishlist page, cart page and product details page
 
 # Anticipated Technologies
 
-(What technologies are needed to build this project)
+- ReactJS,HTML,CSS,Bootstrap - Frontend 
+- Database - SQL Server 
+- C# .Net - Backend
 
 # Method/Approach
 
