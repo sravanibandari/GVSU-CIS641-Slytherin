@@ -28,4 +28,7 @@ Our project is an e-commerce shopping website.Where we tend to build the below p
 
 # Anticipated Problems
 
+- Since some of us are new to React Js and .Net, we might find some ostacles in integrating the frontend and backend.
+- Time management could be something that we all need to work on.
+ 
 (Describe any problems you foresee that you will need to overcome)
