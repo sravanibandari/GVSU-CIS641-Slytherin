@@ -13,8 +13,10 @@ Our project is an e-commerce shopping website.Where we tend to build the below p
 - C# .Net - Backend
 
 # Method/Approach
+We are planning to use agile model for our project.
+Coming to the working part, we plan on dividing our tasks based on our interests and expertise in first place.
+Secondly, the front end and documentation would be done by two of our members and backend is taken up by another member.
 
-(What is your estimated "plan of attack" for developing this project)
 
 # Estimated Timeline
  ## Major mile stones
