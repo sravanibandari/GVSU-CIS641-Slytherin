@@ -11,6 +11,7 @@ Our project is an e-commerce shopping website.Where we tend to build the below p
 ## Project Artifacts and Documents
 * [Artifacts](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/tree/master/artifacts)
 * [Documents](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/tree/master/docs)
+
 ## Prerequisites
 
 ## Run Instructions
