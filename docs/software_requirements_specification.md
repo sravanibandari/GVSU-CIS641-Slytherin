@@ -5,7 +5,7 @@ A Software Requirements Specification(SRS) is a document which explains all the 
 
 1. Homepage
 	1. The customer shall be displayed with a search option on clicking the search bar in the website.
-	2. All the items displayed shall a favorite option.
+	2. All the items displayed shall have a favorite option.
 	3. The images of the items displayed shall be given an option to zoom in.
 
 2. Cart
@@ -43,7 +43,7 @@ A Software Requirements Specification(SRS) is a document which explains all the 
 	1. Only system administrator shall have access to perform admin operations. 
 	2. The website shall be translated into different languages upon selecting a particular language.
 	3. The passwords of existing users shall be saved in to the system when signed-in to the webpage.
-    
+
 4. Efficiency
 	1. The website shall be environment adaptable to run efficiently on any type of OS platform.
 	2. The website shall be able to serve to the needs of a large number of users upon using at a particular point of time.
