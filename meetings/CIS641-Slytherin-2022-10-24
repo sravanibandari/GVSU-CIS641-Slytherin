@@ -2,20 +2,20 @@ Team name: Slytherin
 
 Members present: Sravani,Sanjana,Akhila
 
-Date: 2022/11/01
+Date: 2022/11/24
 
-Time: 9.00 PM
+Time: 5.30 PM
 
 Discussion points:
 
-Checked the work completed on the screens and started with database
+Created jira task for design of the login screen ,homepage screens
 
 Goals for next week (include responsibilities)
 
- Create a JDBC Connection to read data from Database
+ Create a screen for login Page
 
- Setup MySQL Database and add required data to read from tabales
+ Create a screen for signUp page
 
  Take a look at overview of database
 
- Continue with backend development
+ Start with backend Api development
