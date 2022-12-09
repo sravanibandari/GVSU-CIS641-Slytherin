@@ -17,3 +17,7 @@ Our project is an e-commerce shopping website.Where we tend to build the below p
 * Need to have prior knowledge on CSS,HTML,Java,MySQL
 
 ## Run Instructions
+  1. Install Apache Tomcat 8.0,MySQl 5.0,SQLyog 6,Java 6
+  2. Initiate Tomcat Apache Server and Sqlyog
+  3. Download the Slytherin/ECommerce folder to local.
+  3. Once the server is started,go to Manager App,Select ECommerce Application.
