@@ -8,9 +8,9 @@ Our project is an e-commerce shopping website.Where we tend to build the below p
 
 # Anticipated Technologies
 
-- ReactJS,HTML,CSS,Bootstrap - Frontend 
-- Database - SQL Server 
-- C# .Net - Backend
+- HTML,CSS,Bootstrap - Frontend 
+- MySQL - Database 
+- Java,JDBC - Backend
 
 # Method/Approach
 We are planning to use agile model for our project.
