@@ -1,6 +1,5 @@
 # Slytherin
-
-Our project is an e-commerce shopping website.Where we tend to build the below pages in the website products listing, adding items to favorite/whishlist page, cart page and product details page
+Our project is a ecommerce website which has features such as login,adding items to cart ,summing the prices of the items and displaying, proceeding to payment and checking out. We wish to provide easy window shopping options to the users with various categories. This website has been built with the hope of providing user friendly and platform adaptable website to the user.
 
 ## Team Members and Roles
 
