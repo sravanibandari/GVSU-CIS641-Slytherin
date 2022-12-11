@@ -104,28 +104,36 @@ This section contains the Software requirements of ECommerce website's functiona
 
 
 # Change management plan
-<Description of what this section is>
+This is a management plan of action set out for each section of a company to respond to newly presented changes. A proper change management strategy should include specific objectives that must be reached as well as procedures that must be modified in order to bring out the change. It avoids negative outcomes in an organization. A clearly defined strategic plan helps in reducing stress. The opinions of every individual involved in the project should be given equal importance.
+Introduction
+People are very busy with their wants in this booming world. Window shopping is the perfect option for people to enjoy their shopping because going out and doing actual buying is really tough.
+## How will you train people to use it?
+Though it’s a challenging situation, customer satisfaction is the ultimate goal. I'll offer users plenty of opportunities to reconsider utilizing our website Therefore, we’ll clearly explain people how to make use of the website by letting them know about how user-friendly it is. we'll build a motivated, effective team that provides the customer with valuable information. We also inform customers know that website is enhanced by the unsatisfied feedbacks given by user they are facing currently. We will let the organization and the employees know that we do have some enhanced versions where all the requirements of customers are met. In order to provide customers with the training they need, communication is crucial. We provide practical training sessions on how to access and utilize our website, where we kept our realistic ideas into practice. We would provide seminar or demo sections for staff as a way to tell them change is everything done for the sake of profit for organization and satisfy the needs of users. Clients are also given paperwork that clearly explains each and every requirement on how and when to use it. We'll also offer training sessions for customers so they can get their questions answered. The staff will be provided with required support with the flow of the work and also for the developing,testing and executing the application
+
+## 
+
+
 
 # Traceability links
-<Description of this section>
+Traceability Links are the links to the functional models,which tells us or helps us to understand how several elements are connected to each other.
 
 ## Use Case Diagram Traceability
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-| 1 | [Login Register Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Login_register_usecase.jpeg) | FR5 |
-| 2 | [Main SubCategory Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Main_subcategory_usecase.jpeg)| FR5 |
-| 3 | [Cart Payment Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Cart_payment_usecase.jpeg) | FR5 |
+| 1 | [Login Register Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Login_register_usecase.jpeg) | FR1-FR5,NFR16-NFR20 |
+| 2 | [Main SubCategory Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Main_subcategory_usecase.jpeg)| FR2-FR10,NFR14 |
+| 3 | [Cart Payment Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Cart_payment_usecase.jpeg) | FR12-FR15, FR18-FR20, FR21-FR25, NFR1,NFR2,,FR11,NFR11-NFR15|
 
 ## Class Diagram Traceability
 | Artifact Name | Requirement ID |
 | :-------------: |:----------: |
-| [Class Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/ClassDiagram.jpg) | NFR3, FR5 |
+| [Class Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/ClassDiagram.jpg) | FR16, FR17, NFR4, NFR6,NFR8-NFR10,NFR21-NFR25 |
 
 ## Activity Diagram Traceability
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-| 1 | [Admin Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Admin_ActivityDiagram.jpg) | FR1-5, NFR2 |
-| 2 | [Login Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Login_ActivityDiagram.jpg)| FR1-5, NFR2 |
+| 1 | [Admin Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Admin_ActivityDiagram.jpg) | NFR3,NFR7,NFR11,NFR16-NFR20|
+| 2 | [Login Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Login_ActivityDiagram.jpg)| NFR5 |
 
 ## Software Artifacts
 This sections gives the details and links to the artifcats like Use Case Diagram,Class Diagram,Activity Doagram and Use Case Description
