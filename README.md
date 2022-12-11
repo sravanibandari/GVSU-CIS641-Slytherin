@@ -4,8 +4,8 @@ Our project is a ecommerce website which has features such as login,adding items
 ## Team Members and Roles
 
 * [Sravani Bandari](https://github.com/sravanibandari/CIS641-HW2-Bandari) (Backend Developer, FrontEnd Developer, Database)
-* [Sanjana Devarupala](https://github.com/DevarupalaSanjana/-CIS641-HW2-Devarupala) (Frontend Developer1, Documentation)
-* [Akhila Pasam]( https://github.com/akhila-Reddie/CIS641-HW2-pasam)(Requirement Analyst,Documentation)
+* [Sanjana Devarupala](https://github.com/DevarupalaSanjana/-CIS641-HW2-Devarupala) (Frontend Developer, Database)
+* [Akhila Pasam]( https://github.com/akhila-Reddie/CIS641-HW2-pasam)(Requirement Analyst,FrontEnd Developer,Documentation)
 
 ## Project Artifacts and Documents
 * [Artifacts](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/tree/master/artifacts)
