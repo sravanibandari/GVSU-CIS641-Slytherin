@@ -123,12 +123,10 @@ This section contains the Software requirements of ECommerce website's functiona
 | classDiagram | NFR3, FR5 |
 
 ## Activity Diagram Traceability
-<In this case, it makes more sense (I think, feel free to disagree) to link
-to the file and to those requirements impacted>
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-| Activity Diagram1 | Admin Activity Diagram | FR1-5, NFR2 |
-| Activity Diagram2 | Login Activity Diagram | FR1-5, NFR2 |
+| 1 | [Admin Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Admin_ActivityDiagram.jpg) | FR1-5, NFR2 |
+| 2 | [Login Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Login_ActivityDiagram.jpg)| FR1-5, NFR2 |
 
 ## Software Artifacts
 This sections gives the details and links to the artifcats like Use Case Diagram,Class Diagram,Activity Doagram and Use Case Description
