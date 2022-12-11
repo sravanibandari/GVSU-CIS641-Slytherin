@@ -59,7 +59,7 @@ This section contains the Software requirements of ECommerce website's functiona
 ### Security
 | ID | Requirement |
 | :-------------: | :----------: |
-| NFR1 | The payment process gateway shall be PCI/DCS compliant |
+| NFR1 | The payment process gateway shall be PCI/DCS compliance |
 | NFR2 | Easy payment options shall be available to the customer upon proceeding to pay for effortless pay|
 | NFR3 | The database shall be accessible only to the admin |
 | NFR4 | The system shall be scalable to support a hundred visits at the same time |
@@ -97,9 +97,9 @@ This section contains the Software requirements of ECommerce website's functiona
 | :-------------: | :----------: |
 | NFR21 | The homepage of the website shall load in less than 5 seconds |
 | NFR22 | Customizations made to the website shall be reflected to the homepage, every single day upon connecting to the local server |
-| NFR23 | The databse of website shall be able to store as many images uploaded by the admin |
+| NFR23 | The database of website shall be able to store as many images uploaded by the admin |
 | NFR24 | The website shall be user-friendly |
-| NFR25 | Trouble shooting shall be easy whenever depolyment fails |
+| NFR25 | Trouble shooting shall be easy whenever deployment fails |
 
 
 
