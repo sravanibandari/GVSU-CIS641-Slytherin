@@ -46,3 +46,8 @@ A Software Requirements Specification(SRS) is a document which explains all the 
 
 4. Efficiency
 	1. The website shall be environment adaptable to run efficiently on any type of OS platform.
+
+## Activity Diagram Traceability
+| Artifact ID | Artifact Name | Requirement ID |
+| :-------------: | :----------: | :----------: |
+| 9 |  [Review Comment on a Recipe]() | NFR15 |
