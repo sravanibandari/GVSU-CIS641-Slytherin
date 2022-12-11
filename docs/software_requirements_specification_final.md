@@ -11,8 +11,8 @@ This section contains the Software requirements of ECommerce website's functiona
 | :-------------: | :----------: |
 | FR1 | The username shall comprise of first name and last name |
 | FR2 | The website shall ask the user to set down a password upon registration |
-| FR3 | The phone number domain shall have restriction up to ten number only |
-| FR4 | The user shall be asked to enter details such as name of city, address and ZIP code |
+| FR3 | The phone number domain shall have restriction up to ten numbers only |
+| FR4 | The user shall be asked to enter details such as name of the city, address and ZIP code |
 | FR5 | The user shall be asked for email and gender for registration |
 
 
@@ -28,9 +28,9 @@ This section contains the Software requirements of ECommerce website's functiona
 ### Cart
 | ID | Requirement |
 | :-------------: | :----------: |
-| FR11 | The products shall be added to cart upon selecting the add to cart button. |
+| FR11 | The products shall be added to cart upon selecting the buy button. |
 | FR12 | The prices of the products shall be summed up when the products are added to the cart and displayed to the user |
-| FR13 | Each item shall consist of item ID and user ID shall be allotted to every user |
+| FR13 | Each item shall consist of item ID and user ID allotted to every user |
 | FR14 | The quantity of the items ordered shall be displayed |
 | FR15 | The item not required by the user shall be removed by clicking on remove button |
 
@@ -133,8 +133,8 @@ Traceability Links are the links to the functional models,which tells us or help
 ## Activity Diagram Traceability
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-| 1 | [Admin Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Admin_ActivityDiagram.jpg) | NFR3,NFR7,NFR11,NFR16-NFR20|
-| 2 | [Login Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Login_ActivityDiagram.jpg)| NFR5 |
+| 4 | [Admin Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Admin_ActivityDiagram.jpg) | NFR3,NFR7,NFR11,NFR16-NFR20|
+| 5 | [Login Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Login_ActivityDiagram.jpg)| NFR5 |
 
 ## Software Artifacts
 This sections gives the details and links to the artifcats like Use Case Diagram,Class Diagram,Activity Doagram and Use Case Description
