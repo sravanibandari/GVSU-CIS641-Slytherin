@@ -112,15 +112,15 @@ This section contains the Software requirements of ECommerce website's functiona
 ## Use Case Diagram Traceability
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-| UseCase1 | Move Player | FR5 |
-| UseCase2 | Move Player | FR5 |
-| UseCase3 | Move Player | FR5 |
+| 1 | [Login Register Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Login_register_usecase.jpeg) | FR5 |
+| 2 | [Main SubCategory Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Main_subcategory_usecase.jpeg)| FR5 |
+| 3 | [Cart Payment Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Cart_payment_usecase.jpeg) | FR5 |
 | … | … | … |
 
 ## Class Diagram Traceability
 | Artifact Name | Requirement ID |
 | :-------------: |:----------: |
-| classDiagram | NFR3, FR5 |
+| [Class Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/ClassDiagram.jpg) | NFR3, FR5 |
 
 ## Activity Diagram Traceability
 | Artifact ID | Artifact Name | Requirement ID |
@@ -136,3 +136,4 @@ This sections gives the details and links to the artifcats like Use Case Diagram
 * [Use Case Description](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Use%20Case%20Description.docx)
 * [Cart Payment Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Cart_payment_usecase.jpeg)
 * [Main SubCategory Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Main_subcategory_usecase.jpeg)
+* [Login Register Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Login_register_usecase.jpeg)
