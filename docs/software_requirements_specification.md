@@ -6,9 +6,9 @@ A Software Requirements Specification(SRS) is a document which explains all the 
 ### <HomePage1>
 | ID | Requirement |
 | :-------------: | :----------: |
-| FR1 | <The customer shall be displayed with a search option on clicking the search bar in the website> |
-| FR2 | <All the items displayed shall have a favorite option> |
-| FR3 | <The images of the items displayed shall be given an option to zoom in> |
+| FR1 | The customer shall be displayed with a search option on clicking the search bar in the website |
+| FR2 | All the items displayed shall have a favorite option |
+| FR3 | The images of the items displayed shall be given an option to zoom in |
 
 2. Cart
 	1. The products shall be added to cart upon selecting the add to cart button.
