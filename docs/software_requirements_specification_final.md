@@ -124,7 +124,8 @@ to the file and to those requirements impacted>
 | :-------------: | :----------: | :----------: |
 | <filename> | Handle Player Input | FR1-5, NFR2 |
 | … | … | … |
-# Software Artifacts
+
+##Software Artifacts
 This sections gives the details and links to the artifcats like Use Case Diagram,Class Diagram,Activity Doagram and Use Case Description
 * [Class Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/ClassDiagram.jpg)
 * [Admin Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Admin_ActivityDiagram.jpg)
