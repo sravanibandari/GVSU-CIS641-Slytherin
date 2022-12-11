@@ -17,7 +17,7 @@ Our project is an e-commerce shopping website.Where we tend to build the below p
 * Need to have prior knowledge on CSS,HTML,Java,MySQL
 
 ## Run Instructions
-  1. Clone the project from (git@github.com:sravanibandari/GVSU-CIS641-Slytherin.git)
+  1. Clone the project from (https://github.com/sravanibandari/GVSU-CIS641-Slytherin.git)
   2. Install Apache Tomcat 8.0,MySQl 5.0,SQLyog 6,Java 6
   3. Initiate Tomcat Apache Server and Sqlyog
   4. Download the Slytherin/ECommerce.zip folder and extract files to local.
