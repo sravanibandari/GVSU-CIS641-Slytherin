@@ -1,8 +1,9 @@
 # Overview
-<Describe the purpose of this document in 1 paragraph of less … hint: it is
-your SRS>
+A Software Requirements Specification(SRS) is a document which explains all the features and requirements made or built into the system (i.e) what the system will do.This document is written to condense the functional and non-functional requirements of our website.
 
 # Software Requirements
+This section contains the Software requirements of ECommerce website's functional and non-functional requirements. Functional requirements are the features of the website that each developers work on to achieve them and non-functional requirements defines the performance and security.
+
 ## Functional Requirements
 
 ### Signup/Login
