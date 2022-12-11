@@ -125,5 +125,10 @@ to the file and to those requirements impacted>
 | <filename> | Handle Player Input | FR1-5, NFR2 |
 | … | … | … |
 # Software Artifacts
-<Describe the purpose of this section>
-* [I am a link](to_some_file.pdf)
+This sections gives the details and links to the artifcats like Use Case Diagram,Class Diagram,Activity Doagram and Use Case Description
+* [Class Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/ClassDiagram.jpg)
+* [Admin Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Admin_ActivityDiagram.jpg)
+* [Login Activity Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Login_ActivityDiagram.jpg)
+* [Usecase Description](thttps://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Use%20Case%20Description.docx)
+* [Cart Payment Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Cart_payment_usecase.jpeg)
+* [Main SubCategory Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Main_subcategory_usecase.jpeg)
