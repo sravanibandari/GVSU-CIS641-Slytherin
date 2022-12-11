@@ -1,14 +1,12 @@
 # Overview
 A Software Requirements Specification(SRS) is a document which explains all the features and requirements made or built into the system (i.e) what the system will do.This document is written to condense the functional and non-functional requirements of our website.
 
-# Software Requirements
-## Functional Requirements
-### <HomePage1>
-| ID | Requirement |
-| :-------------: | :----------: |
-| FR1 | The customer shall be displayed with a search option on clicking the search bar in the website |
-| FR2 | All the items displayed shall have a favorite option |
-| FR3 | The images of the items displayed shall be given an option to zoom in |
+# Functional Requirements
+
+1. Homepage
+	1. The customer shall be displayed with a search option on clicking the search bar in the website.
+	2. All the items displayed shall have a favorite option.
+	3. The images of the items displayed shall be given an option to zoom in.
 
 2. Cart
 	1. The products shall be added to cart upon selecting the add to cart button.
@@ -48,8 +46,3 @@ A Software Requirements Specification(SRS) is a document which explains all the 
 
 4. Efficiency
 	1. The website shall be environment adaptable to run efficiently on any type of OS platform.
-
-## Activity Diagram Traceability
-| Artifact ID | Artifact Name | Requirement ID |
-| :-------------: | :----------: | :----------: |
-| 9 |  [Review Comment on a Recipe]() | NFR15 |
