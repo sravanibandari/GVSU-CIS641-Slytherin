@@ -12,8 +12,9 @@ Our project is an e-commerce shopping website.Where we tend to build the below p
 * [Artifacts](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/tree/master/artifacts)
 * [Documents](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/tree/master/docs)
 
-## Link to our github page
-* [Slytherin](https://sravanibandari.github.io/GVSU-CIS641-Slytherin/)
+## Links
+* [Software Requirement Specifications](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/docs/software_requirements_specification_final.md)
+* [Slytherin GitHub Page](https://sravanibandari.github.io/GVSU-CIS641-Slytherin/)
 
 ## Prerequisites
 * Gather all the products and the their images to list it in the website
