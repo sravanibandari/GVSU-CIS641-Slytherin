@@ -115,7 +115,6 @@ This section contains the Software requirements of ECommerce website's functiona
 | 1 | [Login Register Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Login_register_usecase.jpeg) | FR5 |
 | 2 | [Main SubCategory Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Main_subcategory_usecase.jpeg)| FR5 |
 | 3 | [Cart Payment Use Case Diagram](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/blob/master/artifacts/Funtional%20Models/Cart_payment_usecase.jpeg) | FR5 |
-| … | … | … |
 
 ## Class Diagram Traceability
 | Artifact Name | Requirement ID |
