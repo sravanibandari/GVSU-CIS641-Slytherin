@@ -20,6 +20,7 @@ Our project is an e-commerce shopping website.Where we tend to build the below p
   1. Install Apache Tomcat 8.0,MySQl 5.0,SQLyog 6,Java 6
   2. Initiate Tomcat Apache Server and Sqlyog
   3. Download the Slytherin/ECommerce.zip folder and extract files to local.
-  4. Once the Tomcat Server is started,go to Manager App,Select ECommerce Application.
-  5. Open the link (http://localhost:2022/ECommerce/)
+  4. Once the Tomcat Server is started,Open the link (http://localhost:2022/ECommerce/)
+  5. Go to manager app,select Ecommerce application
+  6. Website will start running.
 
