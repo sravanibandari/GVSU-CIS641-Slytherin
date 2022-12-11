@@ -13,7 +13,7 @@ Our project is an e-commerce shopping website.Where we tend to build the below p
 * [Documents](https://github.com/sravanibandari/GVSU-CIS641-Slytherin/tree/master/docs)
 
 ## Prerequisites
-* Gather all the products and the their images to insert into sub categories in the website
+* Gather all the products and the their images to list it in the website
 * Need to have prior knowledge on CSS,HTML,Java,MySQL
 
 ## Run Instructions
